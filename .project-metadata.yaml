@@ -20,7 +20,7 @@ environment_variables:
     description: >-
       AWS region
   AWS_BEDROCK_MODEL:
-    default: "anthropic.claude-3-sonnet-20240229-v1:0"
+    default: "us.anthropic.claude-haiku-4-5-20251001-v1:0"
     description: >-
       AWS Bedrock model ID
 
